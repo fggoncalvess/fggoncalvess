@@ -2,11 +2,9 @@
 
 
 
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫  
-
+- 👀 Profissional da área de Técnologia com 9 anos compartilhando experiencia e apredendo.
+- 🌱 Atualmente focado em Cloud Azure, Devops e InfraCodes.
+- 💞️ Obejtivo é compartilhar conhecimento .
 
 
 <div align="center">
@@ -21,8 +19,8 @@
 ##
 
 <div> 
-  <a href = "mailto:fggoncalves@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:fggoncalves@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/felipeeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/fggoncalvess/fggoncalvess/blob/output/github-contribution-grid-snake.svg)
  

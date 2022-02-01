@@ -2,9 +2,9 @@
 
 
 
-- 👀 Profissional da área de Técnologia com 9 anos compartilhando experiencia e apredendo.
-- 🌱 Atualmente focado em Cloud Azure, Devops e InfraCodes.
-- 💞️ Obejtivo é compartilhar conhecimento .
+- 👀 Profissional da área de Técnologia com 9 anos compartilhando experiencia.
+- 🌱 Atualmente estudando Azure, Terraform, Ansible e Ptython
+- 💞️ Objetivo é compartilhar conhecimento e aprender.
 
 
 <div align="center">

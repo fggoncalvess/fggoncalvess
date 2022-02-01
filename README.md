@@ -1,11 +1,11 @@
 ## Olá !! sou o Felipe Gonçalves
 
 
-- 👋 Hi, I’m @fggoncalvess
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫  
 
 
 

@@ -5,6 +5,8 @@
 - 👀 Profissional da área de Técnologia com 9 anos compartilhando experiencia.
 - 🌱 Atualmente estudando Azure, Terraform, Ansible e Ptython
 - 💞️ Objetivo é compartilhar conhecimento e aprender.
+- Certificações:
+  Azure Fundamentals - AZ900
 
 
 <div align="left">

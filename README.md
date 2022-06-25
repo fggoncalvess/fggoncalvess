@@ -4,7 +4,7 @@
 - 👀 Profissional da área de Técnologia com 9 anos de experiencia solucionando problemas e criando soluções.
 - 🌱 Atualmente estudando com foco em  Azure, Terraform, Ansible e Ptython
 - 💞️ Objetivo é compartilhar conhecimento e aprender.
-- Certificado :
+- Certificações:
   AZ900
 
 

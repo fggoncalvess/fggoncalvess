@@ -1,7 +1,7 @@
 ## Olá !!! Meu Nome é Felipe Gonçalves 
 
 
-- 👀 Profissional da área de Técnologia com 9 anos solucioanando problemas com criativade e adpatavel.
+- 👀 Profissional da área de Técnologia com 9 anos solucionando problemas e criando soluções.
 - 🌱 Atualmente estudando com foco em  Azure, Terraform, Ansible e Ptython
 - 💞️ Objetivo é compartilhar conhecimento e aprender.
 - Certificado :

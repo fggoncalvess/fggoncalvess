@@ -1,12 +1,11 @@
-## Olá !! sou o Felipe Gonçalves
+## Olá !!! Meu Nome é Felipe Gonçalves 
 
 
-
-- 👀 Profissional da área de Técnologia com 9 anos compartilhando experiencia.
-- 🌱 Atualmente estudando Azure, Terraform, Ansible e Ptython
+- 👀 Profissional da área de Técnologia com 9 anos solucioanando problemas com criativade e adpatavel.
+- 🌱 Atualmente estudando com foco em  Azure, Terraform, Ansible e Ptython
 - 💞️ Objetivo é compartilhar conhecimento e aprender.
-- Certificações:
-  Azure Fundamentals - AZ900
+- Certificado :
+  AZ900
 
 
 <div align="left">

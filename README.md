@@ -2,7 +2,7 @@
 
 **Infraestrutura & Operações de TI · Microsoft 365 · Segurança da Informação · Monitoramento**
 
-Sou profissional de TI há mais de 10 anos e cuido de ambientes corporativos de ponta a ponta: servidores, rede, firewall, nuvem Microsoft, backup e monitoramento. Já coordenei a operação de um data center com mais de 200 VMs e cerca de 3.000 usuários atendidos. Gosto de transformar tarefa manual em automação e alerta perdido em dashboard.
+Sou profissional de TI há mais de 10 anos e cuido de ambientes corporativos de ponta a ponta: servidores, rede, firewall, nuvem Microsoft, backup e monitoramento. Já coordenei a operação de um data center com mais de 200 VMs e cerca de 10.000 usuários atendidos. Gosto de transformar tarefa manual em automação e alerta perdido em dashboard.
 
 - 🖥️ **Infraestrutura:** VMware ESXi, Windows Server / Active Directory, File Server, Veeam Backup
 - ☁️ **Microsoft 365 / Entra ID:** Acesso Condicional, Intune, SSPR, SharePoint, Exchange Online

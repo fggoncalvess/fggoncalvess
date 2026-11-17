@@ -1,31 +1,37 @@
-## Olá !!! Meu Nome é Felipe Gonçalves 
+<h2 align="left">Olá! Eu sou o Felipe Gonçalves 👋</h2>
 
+**Infraestrutura & Operações de TI · Microsoft 365 · Segurança da Informação · Monitoramento**
 
-- 👀 Profissional da área de Técnologia com 9 anos de experiencia solucionando problemas e criando soluções.
-- 💞️ Objetivo é compartilhar conhecimento e aprender.
-- Certificações:
-  AZ900
+Sou profissional de TI há mais de 10 anos e cuido de ambientes corporativos de ponta a ponta: servidores, rede, firewall, nuvem Microsoft, backup e monitoramento. Já coordenei a operação de um data center com mais de 200 VMs e cerca de 3.000 usuários atendidos. Gosto de transformar tarefa manual em automação e alerta perdido em dashboard.
 
+- 🖥️ **Infraestrutura:** VMware ESXi, Windows Server / Active Directory, File Server, Veeam Backup
+- ☁️ **Microsoft 365 / Entra ID:** Acesso Condicional, Intune, SSPR, SharePoint, Exchange Online
+- 🔐 **Segurança:** pfSense / Sophos Firewall, EDR, hardening, VPN, SIEM
+- 📊 **Monitoramento / NOC:** Zabbix (templates e web scenarios), Grafana
+- ⚙️ **Automação:** Python, PowerShell, n8n, Power Automate, Docker, Microsoft Graph API
+- 🧩 **Gestão de serviços:** ITIL, GLPI
 
-<div align="left">
-  <a href="https://github.com/fggoncalvess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fggoncalvess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div>
+### 🛠️ Tecnologias
 
-##
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux,azure,powershell,python,docker,grafana,git,github,vscode&theme=dark" alt="Tecnologias" />
+</p>
 
-<div> 
-  <a href = "mailto:fggoncalves@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipeeoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/fggoncalvess/fggoncalvess/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+### 🎓 Certificações
 
-<!---
-fggoncalvess/fggoncalvess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Microsoft Azure Fundamentals (AZ-900)
+
+### 📫 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/felipeeoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:fggoncalves@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+</p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fggoncalvess/fggoncalvess/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fggoncalvess/fggoncalvess/output/github-contribution-grid-snake.svg" />
+  <img alt="Animação da cobrinha sobre o gráfico de contribuições" src="https://raw.githubusercontent.com/fggoncalvess/fggoncalvess/output/github-contribution-grid-snake.svg" />
+</picture>
